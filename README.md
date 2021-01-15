@@ -1,1 +1,1 @@
-# DonutShopLandingPage
+A landing page for Nat's Donuts so users who want to find out more about us, who we are and what we offer. Users can learn how we source our ingredients, our rewards points system, menu items(allergens, ingredients, calories, etc), catering info, hours, and locations.
